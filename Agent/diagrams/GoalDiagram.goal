@@ -1,3 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GoalDiagram version="1.1" name="Goal Diagram" embedded="false">
+	<Goal id="10a137d7-9726-4e35-878f-e81ff714e107" name="match simulator" number="0" preference="1.0" x="365" y="102" width="117" height="62" definition="" description="" color="No">
+		<and>
+			<child>4178ad38-0ec9-4d64-9fdc-701cd44559cc</child>
+		</and>
+		<and>
+			<child>74a071ae-9566-4ae2-bb16-23bdb86fbd90</child>
+		</and>
+		<and>
+			<child>2eb1329e-19e6-4426-863c-eb78740f93ab</child>
+		</and>
+	</Goal>
+	<Goal id="2eb1329e-19e6-4426-863c-eb78740f93ab" name="prepare pitch" number="1" preference="1.0" x="128" y="223" width="100" height="54" definition="" description="" color="No">
+		<and>
+			<child>be00a382-0fa7-42dd-b8f4-eafadd09326d</child>
+		</and>
+	</Goal>
+	<Goal id="21af8063-3d96-45ff-b8cd-8b8a71b56af3" name="stop match" number="5.4" preference="1.0" x="550" y="444" width="127" height="66" definition="" description="" color="No">
+	</Goal>
+	<Goal id="4178ad38-0ec9-4d64-9fdc-701cd44559cc" name="comunnication betwens players" number="4" preference="1.0" x="332" y="209" width="192" height="71" definition="" description="" color="No">
+		<and>
+			<child>e5878c1d-d5a0-4b7c-97ba-765dec49466e</child>
+		</and>
+		<and>
+			<child>0cd704a1-8162-41a4-a63e-de90f74a7978</child>
+		</and>
+		<and>
+			<child>c6833f46-01dd-4bb2-8e5e-51b097e85f11</child>
+		</and>
+	</Goal>
+	<Goal id="74a071ae-9566-4ae2-bb16-23bdb86fbd90" name="make decision by referee" number="5" preference="1.0" x="618" y="214" width="166" height="53" definition="" description="" color="No">
+		<and>
+			<child>283255aa-6ac7-4ea1-b088-1760c9a62189</child>
+		</and>
+		<and>
+			<child>0e2ce1aa-e80e-4c1e-a2ac-a7cb6814031e</child>
+		</and>
+		<and>
+			<child>a49f9716-a827-4077-b125-9a2b1cf8bc93</child>
+		</and>
+		<and>
+			<child>21af8063-3d96-45ff-b8cd-8b8a71b56af3</child>
+		</and>
+	</Goal>
+	<Goal id="e5878c1d-d5a0-4b7c-97ba-765dec49466e" name="pass the ball between players" number="4.1" preference="1.0" x="227" y="325" width="184" height="66" definition="" description="" color="No">
+	</Goal>
+	<Goal id="c6833f46-01dd-4bb2-8e5e-51b097e85f11" name="Intercept the ball by second team" number="4.3" preference="1.0" x="308" y="395" width="213" height="58" definition="" description="" color="No">
+	</Goal>
+	<Goal id="a49f9716-a827-4077-b125-9a2b1cf8bc93" name="get data about ball position" number="5.3" preference="1.0" x="633" y="387" width="179" height="54" definition="" description="" color="No">
+	</Goal>
+	<Goal id="0e2ce1aa-e80e-4c1e-a2ac-a7cb6814031e" name="end match" number="5.2" preference="1.0" x="714" y="330" width="109" height="51" definition="" description="" color="No">
+	</Goal>
+	<Goal id="283255aa-6ac7-4ea1-b088-1760c9a62189" name="inform about goal" number="5.1" preference="1.0" x="565" y="327" width="133" height="55" definition="" description="" color="No">
+	</Goal>
+	<Goal id="0cd704a1-8162-41a4-a63e-de90f74a7978" name="realize team strategy" number="4.2" preference="1.0" x="415" y="328" width="145" height="54" definition="" description="" color="No">
+	</Goal>
+	<Goal id="be00a382-0fa7-42dd-b8f4-eafadd09326d" name="Hold information about ball position" number="1.1" preference="1.0" x="8" y="319" width="211" height="65" definition="" description="" color="No">
+	</Goal>
 </GoalDiagram>
