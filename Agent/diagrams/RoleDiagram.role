@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RoleDiagram version="1.1" name="Role Diagram" embedded="false">
+	<Role id="e54c16cd-5488-4c77-a3fa-9eba6f17835c" name="Pass Ball" x="212" y="158" width="93" height="76">
+	</Role>
+	<Role id="f9dcceb9-609d-49fd-905d-2edd4c051258" name="Pause match" x="374" y="154" width="91" height="85">
+	</Role>
 </RoleDiagram>

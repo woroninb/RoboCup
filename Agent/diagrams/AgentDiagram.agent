@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AgentDiagram version="1.1" name="Agent Diagram" embedded="false">
+	<Agent id="662a9b58-0450-400c-821e-da4cf693363e" name="Referee" x="85" y="231" width="79" height="67">
+	</Agent>
+	<Agent id="1b018a10-879b-4db1-8ae7-0f0780c96cf1" name="Pitch" x="370" y="230" width="74" height="69">
+	</Agent>
+	<Agent id="44b34f57-5f25-4f94-8c6a-2085a7b408f7" name="Player" x="231" y="228" width="79" height="80">
+	</Agent>
 </AgentDiagram>
